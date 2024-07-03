@@ -1,0 +1,17 @@
+h1 {
+    color: #ffee00cc;
+    font-size: 54px;
+}
+
+p{
+    color: rgb(255, 72, 0);
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(54, 36, 36);
+}
+
+#top{
+    color: orange;
+}
